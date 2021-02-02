@@ -1,2 +1,0 @@
-# IkshitGupta_ECELL
-ECELL TASK 20AG10012
